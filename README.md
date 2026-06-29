@@ -28,7 +28,8 @@ AI-powered issue categorization
 Real-time complaint tracking
 AI chatbot assistance for reporting and emergencies
 Personal dashboard for report history
-🏛️ Authority (Web Dashboard)
+
+ Authority (Web Dashboard)
 View all citizen reports
 Interactive map visualization (Google Maps)
 AI-based duplicate detection
@@ -49,6 +50,7 @@ CivicGuard follows a 3-tier architecture:
 Mobile App (Citizen Side)
 Web Dashboard (Admin Side)
 Backend System (AI + Database Layer)
+
 Key Technologies:
 Frontend: React Native (Expo), React.js
 Backend: Node.js / Express
